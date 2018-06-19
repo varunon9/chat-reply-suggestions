@@ -1,0 +1,30 @@
+{
+  "name": "chat-reply-suggestions",
+  "version": "1.0.0",
+  "description": "Auto reply suggestions to chat messages/emails built using rasa_nlu framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunon9/chat-reply-suggestions.git"
+  },
+  "keywords": [
+    "rasa-nlu",
+    "rasa",
+    "chatbot",
+    "nlp",
+    "chat-reply"
+  ],
+  "author": "Varun Kumar <varunon9@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varunon9/chat-reply-suggestions/issues"
+  },
+  "homepage": "https://github.com/varunon9/chat-reply-suggestions#readme",
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}

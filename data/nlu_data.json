@@ -1,0 +1,1181 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "bye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "Lets contact in future",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "Goodbye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "Bye bot",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "Goodbye friend",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "bye for now",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "catch you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "gotta go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "See you",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "goodnight",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "have a nice day",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "i'm off",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "see you later alligator",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "we'll speak soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "cu",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "good by",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "cee you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "good night",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "good afternoon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "see you around",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "bye bye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hi bot",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hey bot",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Good morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi again",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi folks",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi Mister",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi pal!",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "greetings",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello everybody",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello is anybody there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello robot",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good evening",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "moin",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "let's go",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey dude",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "goodmorning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "goodevening",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "heya",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "yo man",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good evening",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good noon",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Thanks",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "Thank you",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "Thank you so much",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "Thanks bot",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "Thanks for that",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "cheers",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "cheers bro",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "Thanks for endorsing me for Programming",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "ok thanks!",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "perfect thank you",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "thanks a bunch for everything",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "thanks for the help",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "thanks a lot",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "amazing, thanks",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "cool, thanks",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "cool thank you",
+        "intent": "gratitude",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "indeed",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "of course",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "that sounds good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yupe",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yup",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "definitely not",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "never",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "absolutely not",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "i don't think so",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "i'm afraid not",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "no sir",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "no ma'am",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "no way",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "no sorry",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "No, not really.",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "nah not for me",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "nah",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "no and no again",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "no go",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "don't like that",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "perfect",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "It was quite impressive",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "very good",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "very good",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "great",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "amazing",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "feeling like a king",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "wonderful",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "I am feeling very good",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "I am great",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "I am amazing",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "I am going to save the world",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "super",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "extremely good",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "so so perfect",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "so good",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "so perfect",
+        "intent": "happy",
+        "entities": []
+      },
+      {
+        "text": "my day was horrible",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "I am sad",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "sad",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "I don't feel very well",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "I am disappointed",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "super sad",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "I'm so sad",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "very sad",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "unhappy",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "not so good",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "not very good",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "extremly sad",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "so saad",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "so sad",
+        "intent": "sad",
+        "entities": []
+      },
+      {
+        "text": "hope you are doing well.",
+        "intent": "politeness",
+        "entities": []
+      },
+      {
+        "text": "Congrats on the new role! Hope you're doing well.",
+        "intent": "politeness",
+        "entities": []
+      },
+      {
+        "text": "hope you are doing great.",
+        "intent": "politeness",
+        "entities": []
+      },
+      {
+        "text": "hope you are good.",
+        "intent": "politeness",
+        "entities": []
+      },
+      {
+        "text": "Trust you are doing well.",
+        "intent": "politeness",
+        "entities": []
+      },
+      {
+        "text": "Good connecting with you.",
+        "intent": "friendly",
+        "entities": []
+      },
+      {
+        "text": "Nice talking to you.",
+        "intent": "friendly",
+        "entities": []
+      },
+      {
+        "text": "Nice to talk to you.",
+        "intent": "friendly",
+        "entities": []
+      },
+      {
+        "text": "Good chatting with you.",
+        "intent": "friendly",
+        "entities": []
+      },
+      {
+        "text": "Glad to see you.",
+        "intent": "friendly",
+        "entities": []
+      },
+      {
+        "text": "Glad to be connected with you",
+        "intent": "friendly",
+        "entities": []
+      },
+      {
+        "text": "I have few fantastic Software Developer Positions open with some of the leading companies in Internet/E-commerce domain.",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "I pinged you to ask something important",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "Yes we only have access to bitbucket.",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "There is no tutorial.",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "I'd like to invite you to TapChief, a community for professionals to help students with credible career advice over a call.",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "I know core java, REST API, Android basic connect with a retrofit, JSON calling, PHP",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "I am Currently learning about Advance Android",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "I want to give a voice command to an app instead of press left key.",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "Excellent Mumbai Job Opening with our Internet e-commerce client for Fullstack / Backend Developer role.",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "We are actively looking for Frontend as well as Backend Developers.",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "We have an opening with E&Y(Ernst &young).",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "We are looking for a Sr. engg to join us in building a global smart parking IOT platform.",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "I work in Talent Acquisition at Amazon.",
+        "intent": "info",
+        "entities": []
+      },
+      {
+        "text": "Please let me know in case you would like to explore the opportunity at this moment.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "Do share your contact details.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "I really need your help",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "Would you do me a favour?",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "If you know any of your friends looking ahead for such opportunity, do let me know.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "Had a small query if you can help me with it.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "Please suggest if I can be an ambassador to you and have a short call",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "If you are exploring any new job option then let me know so that I can help you on professional front.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "let me know if you are looking for job change. ",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "Please review my profile.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "could you describe the detailed functionality of software?",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "I request you to pass my resume to relevant HR for consideration",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "Request you to please share your contact details & a suitable time to connect.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "Let me know when we can connect and discuss.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "Looking forward to a positive response from your end.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "Kindly accept my invitation.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "I am a beginner in android development can you help me out.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "If it is possible then give me some guidance to follow up.",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "Would you be open to sharing my profile with the hiring team so they know about my interest in this?",
+        "intent": "request",
+        "entities": []
+      },
+      {
+        "text": "How are you doing?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "How have you been?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "How's everything?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "How's it going?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "How are things going?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "What's going on?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "What's new?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "What's up?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "How is your life?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "Whassup?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "What are you up to? ",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "How are you?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "What’s new?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "You all right?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "Are you well?",
+        "intent": "howAreYou",
+        "entities": []
+      },
+      {
+        "text": "Would like to touch base for a AWS developer role with one of our product based client for their R&D division in India?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "are you looking out for a job change?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Do you have any idea?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Do you know anything about it?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Do you believe in all these?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Can you make that happen?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Are you still considering my application?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Are you hiring freshers for software development at PayPal?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Can you do it with chat bot?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Do you know the minimum time u need to stay be Eligible for appraisal?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "When is the appraisal cycle?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "Btw how would you rate your expertise in nodejs and what is you stipend expectation?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "For fast improvement what should I do?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "what is your favourite language?",
+        "intent": "question",
+        "entities": []
+      },
+      {
+        "text": "I predict that someday people will live on the moon.",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "In the near future, aliens will visit the earth.",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "Maybe we'll go for a movie",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "In the distant future, everyone in the world will be able to speak english.",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "Someday, Chris will make a lesson without a typing mistake!",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "By 2050, there will be no more oil left in the world",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "In 2022, Wales will win the World Cup.",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "It might rain today.",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "People will definitely work longer hours in the future.",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "You’ll probably enjoy this film.",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "She might pass the exam",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "I'll be very busy tomorrow",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "Jan is certain to pass",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "There’s no chance of Juraj passing the exam.",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "I doubt if Juraj will pass.",
+        "intent": "prediction",
+        "entities": []
+      },
+      {
+        "text": "I am sorry to bring this up, but I don't have another way. ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "I'm not at all satisfied with your behaviour",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "Excuse me if I am out of line, but ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "Excuse me if I am overstepping my boundaries, but",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "Perhaps there was a misunderstanding but ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "I’m sorry to say this but I am really quite upset/angry/disappointed ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "There appears to be a problem here ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "I’m sorry but I’d like to make a complaint about ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "All this is bullshit and nonsense ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "All this is bullshit and nonsense ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "I hope you have a birthday that is as sweet as you. Happy birthday to the sweetest person I know. ",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "Happy birthday to an exceptional person",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "treat yourself to a special day",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "In the end, it’s not the years in your life that count, it’s the life in your years.",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "May today bring something new and exciting for you.",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "May god bless you!",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "I hope you smile all day today",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "May today be the beginning of a great year for you",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "From the bottom of my heart, I would like to wish you the happiest birthday that you could possibly have",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "May all of your wishes come true, today and always.",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "It is a special day, enjoy every minute of it. Happy birthday!",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "May you be surrounded by your loved ones on your special day",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "I wish you joy and happiness on your birthday.",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "May your dreams shine and sparkle like the stars at night. Happy birthday",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "You’re so special that I wanted to wish you a happy birthday in advance.",
+        "intent": "blessing",
+        "entities": []
+      },
+      {
+        "text": "I am so lucky to have you for a friend. Happy birthday!",
+        "intent": "blessing",
+        "entities": []
+      }
+    ]
+  }
+}
