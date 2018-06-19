@@ -25,4 +25,12 @@ Auto reply suggestions to chat messages/emails built using rasa_nlu framework.
 The above app uses sample data (collected by me) for demo. Bot can be made more efficient by training 
 with more real world data.
 
+## Screenshots
+|  |
+| --- |
+|![Chat suggestions](./screenshots/chat-suggestions.png) |
+
+#### To see working demo on youtube watch this video:
+* https://youtu.be/MCBmbJyoamY
+
 ###### For query/issues create Github issue or contact: varunon9@gmail.com  
