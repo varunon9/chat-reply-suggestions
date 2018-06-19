@@ -1,7 +1,7 @@
 # chat-reply-suggestions
 Auto reply suggestions to chat messages/emails built using rasa_nlu framework.
 
-### How to install
+### How to install and train chatbot
 
 1. Make sure you have git, python, virtualenv and npm installed
 2. Clone the repository `git clone https://github.com/varunon9/chat-reply-suggestions.git`
@@ -12,12 +12,13 @@ Auto reply suggestions to chat messages/emails built using rasa_nlu framework.
 7. Install language model for the english language `python -m spacy download en_core_web_md`
 8. Link to model data `python -m spacy link en_core_web_md en`
 9. Install some additional dependencies `pip install -r requirements.txt`
-10. Train the intent models using below command 
-11. `python -m rasa_nlu.train --config config_spacy.yml --data data/nlu_data.json --path projects`
-12. Install node dependencies `npm install`
-13. Start nlu server in current terminal `python -m rasa_nlu.server --path projects`
-14. Open another terminal in same project directory (no need to activate virtual environment)
-15. Start the app `node index.js`
+10. Place your nlu_data.json file inside data directory (a sample file is provided).
+11. Train the intent models using below command 
+12. `python -m rasa_nlu.train --config config_spacy.yml --data data/nlu_data.json --path projects`
+13. Install node dependencies `npm install`
+14. Start nlu server in current terminal `python -m rasa_nlu.server --path projects`
+15. Open another terminal in same project directory (no need to activate virtual environment)
+16. Start the app `node index.js`
 
 ### How to improve efficiency
 

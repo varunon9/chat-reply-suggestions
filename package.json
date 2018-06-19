@@ -4,7 +4,7 @@
   "description": "Auto reply suggestions to chat messages/emails built using rasa_nlu framework.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
