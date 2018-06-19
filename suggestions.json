@@ -1,0 +1,82 @@
+{
+    "bye": {
+    	"first": ["good bye", "see you again", "bye bye", "bye :)"],
+    	"second": ["catch you later", "take care", "see you around, bye"],
+    	"third": ["have a nice day", "we'll speak soon", ":D :D"]
+    },
+    "greet": {
+    	"first": ["hi", "hi there", "greetings", "yo what's up"],
+    	"second": ["hey", "hi, how can I help you?"],
+    	"third": ["hello", "hello, how are you?"]
+    },
+    "gratitude": {
+    	"first": ["you're welcome", "Thank you too", "glad to help you"],
+    	"second": ["No problem", "sure", "Bye"],
+    	"third": ["mine pleasure", "welcome", ":D :)"]
+    },
+    "affirmative": {
+    	"first": ["Good to know that", "okay", "oh"],
+    	"second": ["hmmm", "sounds good", "why is that?"],
+    	"third": ["I see", "Good for you"]
+    },
+    "deny": {
+    	"first": ["oh", "hmmm", "i see"],
+    	"second": ["okay", "why is that?"],
+    	"third": ["that's bad", "you should try"]
+    },
+    "happy": {
+    	"first": ["glad to hear that", "Awesome cool", "nice"],
+    	"second": ["me too", "amazing", "keep smiling"],
+    	"third": ["good for you", "keep it up", "okay"]
+    },
+    "sad": {
+    	"first": ["i am sorry", "how can i help you?"],
+    	"second": ["lets work on it", "too bad"],
+    	"third": ["it happens", "don't worry"]
+    },
+    "politeness": {
+    	"first": ["yes, thanks", "yes how are you"],
+    	"second": ["No but lets continue", "yeah"],
+    	"third": ["I am not sure", "yup"]
+    },
+    "friendly": {
+    	"first": ["likewise", "nice", "yeah"],
+    	"second": ["same here", "me too"],
+    	"third": ["good to know", "okay"]
+    },
+    "info": {
+    	"first": ["oh", "hmmm", "i see", "let me take a look", "sounds interesting"],
+    	"second": ["I am not sure", "how is that helpful?", "I am not interested"],
+    	"third": ["carry on", "go ahead"]
+    },
+    "request": {
+    	"first": ["sure", "will do gladly", "let me look into it"],
+    	"second": ["I'll try", "I am not sure", "you are asking too much"],
+    	"third": ["lets see", "will try my best", "no way", "can't do it sorry"]
+    },
+    "howAreYou": {
+    	"first": ["awesome thanks", "I am good. how are you", "great, wbu?"],
+    	"second": ["not good", "not so good"],
+    	"third": ["I am not sure", "yes i am doing well"]
+    },
+    "question": {
+    	"first": ["i don't know", "i am not sure", "i'll have to see"],
+    	"second": ["yes sometimes", "yes always", "sure"],
+    	"third": ["hmmm", "let see", "it's tough to decide", "not now", "never"]
+    },
+    "prediction": {
+    	"first": ["hmmm", "maybe", "let see"],
+    	"second": ["no way", "never", "disagree"],
+    	"third": ["okay", "we can't conclude"]
+    },
+    "complain": {
+    	"first": ["that's bad", "sorry to hear that"],
+    	"second": ["be faithful", "everything is fine"],
+    	"third": ["Everything will be good", "agree"]
+    },
+    "blessing": {
+    	"first": ["Thanks a ton", "thank you so much", "thanks"],
+    	"second": ["same to you", "tnaks, you too"],
+    	"third": ["I am not interested", "thanks, but doesn't matter"]
+    }
+}

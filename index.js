@@ -8,6 +8,8 @@ const request = require('request-promise');
 // to read input from terminal
 const stdin = process.openStdin();
 
+const suggestions = require('./suggestions.json');
+
 const getIntent = (inputChatMessage) => {
 	const payload = {
 		q: inputChatMessage
@@ -34,6 +36,25 @@ const getIntent = (inputChatMessage) => {
 	});
 }
 
+// min, max both inclusive
+const getRandomInt = ((min, max) => {
+	return Math.floor(Math.random() * (max - min + 1) + min);
+});
+
+const getSuggestion = (intent, number) => {
+    const suggestionsArrayLength = suggestions[intent][number].length;
+    const randomIndex = getRandomInt(0, suggestionsArrayLength - 1);
+    return suggestions[intent][number][randomIndex];
+}
+
+const getSuggestionsArray = (intent) => {
+	const suggestionsArray = [];
+	suggestionsArray.push(getSuggestion(intent, 'first'));
+	suggestionsArray.push(getSuggestion(intent, 'second'));
+	suggestionsArray.push(getSuggestion(intent, 'third'));
+	return suggestionsArray;
+}
+
 console.log('Enter a chat message to get suggestions.');
 console.log('First message will take time (around 15s)');
 
@@ -44,8 +65,9 @@ stdin.addListener('data', (d) => {
     const enteredSentence = d.toString().trim();
 
     getIntent(enteredSentence).then((intent) => {
-    	console.log(intent);
+    	console.log(getSuggestionsArray(intent));
     	console.log('------------------------');
+    	console.log();
     }).catch((e) => {
     });
 });
