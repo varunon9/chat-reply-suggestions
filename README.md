@@ -22,8 +22,10 @@ Auto reply suggestions to chat messages/emails built using rasa_nlu framework.
 
 ### How to improve efficiency
 
-The above app uses sample data (collected by me) for demo. Bot can be made more efficient by training 
-with more real world data.
+- The above app uses sample data (collected by me) for demo. Bot can be made more efficient by 
+  training with more real world data.
+- Currently suggestions are bunch of hardcoded arrays based on intent. Entity recognition can be 
+  done and suggestions can be generated on the fly.
 
 ## Screenshots
 |  |
